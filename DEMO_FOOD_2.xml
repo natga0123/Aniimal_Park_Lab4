@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<ArrayOfFood_Item xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Food_Item>
+    <Ingredients>
+      <string>FRESH GRAS</string>
+      <string>WATER</string>
+    </Ingredients>
+    <Name>HORSE FOOD</Name>
+  </Food_Item>
+  <Food_Item>
+    <Ingredients>
+      <string>MILK</string>
+      <string>FISH</string>
+      <string>MICE</string>
+      <string>RABBIT</string>
+      <string>BEEF</string>
+      <string>CANNED CAT FOOD</string>
+    </Ingredients>
+    <Name>CAT FOOD</Name>
+  </Food_Item>
+  <Food_Item>
+    <Ingredients>
+      <string>MICE</string>
+      <string>RICE</string>
+      <string>WATER</string>
+      <string>SEEDS</string>
+    </Ingredients>
+    <Name>OWL FOOD</Name>
+  </Food_Item>
+  <Food_Item>
+    <Ingredients>
+      <string>mice</string>
+      <string>water</string>
+      <string>gras</string>
+    </Ingredients>
+    <Name>Snake food</Name>
+  </Food_Item>
+</ArrayOfFood_Item>

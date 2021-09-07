@@ -1,0 +1,18 @@
+Animal nr :0
+ID :  * 0;Name:  * RAVEN;Age:  * 2; Gender:  * Male;Category:  * Bird;Weight:  * 1;Behaviour:  * good;Max Flying Speed:  * 45;Habitat :  * forest;Number of claws :  * 6
+  
+Animal nr :1
+ID :  * 1;Name:  * OWL;Age:  * 5; Gender:  * Female;Category:  * Bird;Weight:  * 1;Behaviour:  * sleepy;Max Flying Speed:  * 45;Habitat :  * trees;Pray :  * mice
+  
+Animal nr :2
+ID :  * 2;Name:  * CAT;Age:  * 4; Gender:  * Male;Category:  * Mammal;Weight:  * 6;Behaviour:  * lazy;Tail Length:  * 3;Color :  * red;Is Fluffy:  * True
+  
+Animal nr :3
+ID :  * 3;Name:  * TURTLE;Age:  * 100; Gender:  * Male;Category:  * Reptile;Weight:  * 2;Behaviour:  * sleeps;Number of legs:  * 6;Poison bite :  * False;Can swim:  * True
+  
+Animal nr :4
+ID :  * 4;Name:  * SNAKE;Age:  * 3; Gender:  * Male;Category:  * Reptile;Weight:  * 1;Behaviour:  * dangerous;Number of legs:  * 1;Poison bite :  * True;Snake family:  * python
+  
+Animal nr :5
+ID :  * 5;Name:  * HORSE;Age:  * 3; Gender:  * Male;Category:  * Mammal;Weight:  * 200;Behaviour:  * jumpy5;Tail Length:  * 5;Color :  * brown;Max Speed:  * 75
+  
